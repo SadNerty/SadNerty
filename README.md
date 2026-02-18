@@ -53,7 +53,7 @@
 ## 🌌 IDE
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,python,git" />
+  <img src="https://skillicons.dev/icons?i=vscode" />
 </p>
 
 
