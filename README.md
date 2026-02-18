@@ -61,13 +61,13 @@ Main specialization: Frontend Developer
 
 ## 📫 Connect with me
 
-<p>
+<p align="center">
   <a href="https://github.com/SadNerty">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
 
-<p>
+<p align="center">
   <a href="https://t.me/ImInComaHelpMe">
     <img src="https://img.shields.io/badge/telegram-181717?style=for-the-badge&logo=telegram" />
   </a>
