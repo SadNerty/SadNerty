@@ -32,7 +32,7 @@
 
 ## 🌌 About Me
 
-OC:<p align="center">
+OC:<p>
   <img src="https://skillicons.dev/icons?i=windows" />
 </p>
 
