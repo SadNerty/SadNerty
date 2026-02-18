@@ -5,13 +5,6 @@
 
 ---
 
-## 🚀 Tech's
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,html,css,vscode,windows" />
-</p>
-
----
 
 ## 📊 My Stats
 
@@ -30,10 +23,30 @@
 
 ---
 
-## 🌌 About Me
+## 🌌 OC
 
-OC:<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
+</p>
+
+
+---
+
+
+## 🌌 Markup languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css" />
+</p>
+
+
+---
+
+
+## 🌌 IDE
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode" />
 </p>
 
 
