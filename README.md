@@ -8,7 +8,7 @@
 ## 🚀 Tech's
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,nodejs,git,windows,vscode,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=py,js,nodejs,git,windows,vscode" />
 </p>
 
 ---
