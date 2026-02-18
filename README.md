@@ -68,8 +68,14 @@ Main specialization: Frontend Developer
 </p>
 
 <p>
-  <a href="https://t.me/ABL3TOV">
+  <a href="https://t.me/ImInComaHelpMe">
     <img src="https://img.shields.io/badge/telegram-181717?style=for-the-badge&logo=telegram" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://t.me/ABL3TOV">
+    <img src="https://img.shields.io/badge/second account in telegram-181717?style=for-the-badge&logo=telegram" />
   </a>
 </p>
 
