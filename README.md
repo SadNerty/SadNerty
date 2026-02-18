@@ -23,7 +23,7 @@
 
 ---
 
-## 🌌 OC
+## 🖥️ OC
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -33,7 +33,7 @@
 ---
 
 
-## 🌌 Markup languages
+## ✒️ Markup languages
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css" />
